@@ -14,6 +14,7 @@ try
 	graphicalFramework.DrawWall();
 	graphicalFramework.RotateWall();
 	graphicalFramework.DrawWall();
+	
 }
 catch (GraphicException e)
 {
